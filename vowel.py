@@ -1,6 +1,7 @@
 __author__ = 'Hernan Y.Ke'
 import scrabble
 
+#words contains all vowels
 vowels ="aeiou"
 def has_all_vowel(word):
     for vowel in vowels:
